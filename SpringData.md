@@ -660,9 +660,7 @@ public class EmployeeService {
 }
 
 ````
-
 测试方法:
-
 ```androiddatabinding
  @Test
     public void test() {
