@@ -34,7 +34,7 @@ SpringData
 ceate database spring_data;
 
 2.切换到当前使用的数据库
-use spring_data 
+use spring_data;
 
 3.创建一张表
 
